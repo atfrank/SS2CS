@@ -1,4 +1,4 @@
-# SS2CS: Secondary Structure to Chemical Shift prediction tool
+# SS2CS: A Secondary Structure to Chemical Shift Prediction Tool
 
 # Installation:
 
